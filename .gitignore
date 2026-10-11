@@ -1,0 +1,14 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.vscode/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+dashboard_data/*.csv
