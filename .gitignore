@@ -12,3 +12,4 @@ Thumbs.db
 *.bak
 
 dashboard_data/*.csv
+/dashboard_data/
